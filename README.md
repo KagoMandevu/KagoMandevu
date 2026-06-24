@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Musa! 👋
 
-<!--
-**KagoMandevu/KagoMandevu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student based in Botswana (CAT/GMT+2), focusing on full-stack development, database architecture, and digital operations. I love building practical systems and automating workflows.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL, Java, HTML, Bash/Shell Scripting
+- **Frameworks & Tools:** Django, Linux, Cisco Packet Tracer
+- **Interests:** Software Architecture, Network Security, Tech Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus
+- Developing dynamic web apps using Python and Django.
+- Architecting relational database schemas and system requirements.
+
+📫 **How to reach me:** kagomandevu@gmail.com | [LinkedIn] https://www.linkedin.com/in/musa-mandevu/
